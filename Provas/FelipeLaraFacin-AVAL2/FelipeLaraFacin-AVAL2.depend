@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1749084400 source:d:\felipelarafacin-aval2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+
+1749084400 source:e:\ads\alg e log de prog\c\provas\felipelarafacin-aval2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+
