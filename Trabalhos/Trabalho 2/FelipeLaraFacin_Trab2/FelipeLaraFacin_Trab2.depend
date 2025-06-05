@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1748479852 source:d:\ads\alg e log de prog\c\trabalhos\trabalho 2\felipelarafacin_trab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1748572158 source:e:\ads\alg e log de prog\c\trabalhos\trabalho 2\felipelarafacin_trab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
