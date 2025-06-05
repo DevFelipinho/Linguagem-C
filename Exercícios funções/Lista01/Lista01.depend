@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1746492452 source:d:\ads\alg e log de prog\c\exercícios funções\lista01\a.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1746494664 source:d:\ads\alg e log de prog\c\exercícios funções\lista01\ex02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1746657386 source:d:\ads\alg e log de prog\c\exercícios funções\lista01\ex03.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1746659130 source:d:\ads\alg e log de prog\c\exercícios funções\lista01\ex04.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1747234590 source:e:\ads\alg e log de prog\c\exercícios funções\lista03\a.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
