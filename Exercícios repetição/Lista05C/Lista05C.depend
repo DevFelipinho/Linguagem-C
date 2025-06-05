@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1744842506 source:d:\ads\alg e log de prog\c\exercícios repetição\lista05c\ex01.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1744844648 source:d:\ads\alg e log de prog\c\exercícios repetição\lista05c\ex02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1744845984 source:d:\ads\alg e log de prog\c\exercícios repetição\lista05c\ex03.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1744848676 source:d:\ads\alg e log de prog\c\exercícios repetição\lista05c\ex04.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1744902762 source:e:\ads\alg e log de prog\c\exercícios repetição\lista05c\ex04.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1744905270 source:e:\ads\alg e log de prog\c\exercícios repetição\lista05c\ex06.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
