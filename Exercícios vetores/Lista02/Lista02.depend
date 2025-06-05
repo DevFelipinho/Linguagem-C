@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1747874172 source:d:\ads\alg e log de prog\c\exercícios vetores\lista02\ex01.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1747875176 source:d:\ads\alg e log de prog\c\exercícios vetores\lista02\ex02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1747939620 source:e:\ads\alg e log de prog\c\exercícios vetores\lista02\ex05.c
+	<stdio.h>
+	<stdlib.h>
+
+1747940130 source:e:\ads\alg e log de prog\c\exercícios vetores\lista02\ex06.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1747941474 source:e:\ads\alg e log de prog\c\exercícios vetores\lista02\ex07.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1747942362 source:e:\ads\alg e log de prog\c\exercícios vetores\lista02\ex08.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+

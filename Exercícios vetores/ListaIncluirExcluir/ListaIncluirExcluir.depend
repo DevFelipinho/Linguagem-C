@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1748909084 source:d:\ads\alg e log de prog\c\exercícios vetores\listaincluirexcluir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1749089920 source:e:\ads\alg e log de prog\c\exercícios vetores\listaincluirexcluir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+
