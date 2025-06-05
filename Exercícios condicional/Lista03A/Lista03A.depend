@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1742862974 source:d:\ads\alg e log de prog\c\lista03a\ex1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742863804 source:d:\ads\alg e log de prog\c\lista03a\ex2.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742864518 source:d:\ads\alg e log de prog\c\lista03a\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742865696 source:d:\ads\alg e log de prog\c\lista03a\ex4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742870270 source:e:\ads\alg e log de prog\c\lista03a\ex5.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742872866 source:e:\ads\alg e log de prog\c\lista03a\ex6.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742873398 source:e:\ads\alg e log de prog\c\lista03a\ex7.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742876138 source:e:\ads\alg e log de prog\c\lista03a\ex8.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+

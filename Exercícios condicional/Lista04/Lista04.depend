@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1742882626 source:e:\ads\alg e log de prog\c\lista04\ex01.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742923488 source:e:\ads\alg e log de prog\c\lista04\ex02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1743031434 source:d:\ads\alg e log de prog\c\lista04\ex01.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742923644 source:d:\ads\alg e log de prog\c\lista04\ex02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+

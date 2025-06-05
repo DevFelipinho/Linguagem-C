@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1742876832 source:e:\ads\alg e log de prog\c\lista03b\ex01.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742878078 source:e:\ads\alg e log de prog\c\lista03b\ex02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742878796 source:e:\ads\alg e log de prog\c\lista03b\ex03.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1742880722 source:e:\ads\alg e log de prog\c\lista03b\ex04.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1743459356 source:d:\ads\alg e log de prog\c\exercícios condicional\lista03b\ex02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
